@@ -1,0 +1,10 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀòÄC8İ„Õ‡2J$c7819937-538b-4b8e-98c8-85ac7a8bf78c
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ë¹Ö‡2J$9d94aba2-7646-40db-865a-45df909b4805
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8•®‘‡2J$d419381d-e8e8-48ca-8c03-38e7e598f1ee
+
+java:S1874'"9Remove this use of "authorizeRequests"; it is deprecated.(¿Ğ±ûÿÿÿÿ8í†Õ‡2J$5c33bf22-dd3b-416a-aca6-ce0495459132
+
+java:S1874/"9Remove this use of "authorizeRequests"; it is deprecated.(àœàÖùÿÿÿÿ8…¼¡‘‡2J$f485d258-8804-4277-812c-51e0501d3934
